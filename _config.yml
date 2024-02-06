@@ -1,15 +1,15 @@
 # Site Settings
 remote_theme: chrisrhymes/bulma-clean-theme
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Guardian Health
+tagline: Turning waste into wellness
+email: info@guardianhealth.care
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Guardian Health is building a new model of preventative wellness management through passive, continous measurement
 baseurl: "/website"
-url: "https://www.csrhymes.com"
+url: "https://www.guardianhealth.care"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /img/GuardianHealthLogoMark.png
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
