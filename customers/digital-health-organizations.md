@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Customers
+title: Digital Health Organizations
+subtitle: Customers
 hero_height: is-short
 hero_image: /website/img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 menubar: customers_menu
 ---
 
-Guardian Health is developing products to serve several customer segments.
+# Digital Health Organizations
