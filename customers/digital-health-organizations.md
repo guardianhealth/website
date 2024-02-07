@@ -10,4 +10,4 @@ menubar: customers_menu
 
 # Digital Health Organizations
 
-![Image](/img/digital-health-organizations.jpg)
+![Image](/website/img/digital-health-organizations.jpg)
