@@ -5,7 +5,7 @@ subtitle: Turning waste into wellness
 hero_height: is-medium
 hero_link: /technology/
 hero_link_text: Learn More
-hero_image: /website/img/guardian-web-home-cover-1.jpg
+hero_image: /website/img/guardian-web-home-cover.jpg
 show_sidebar: false
 callouts: homepage_callouts
 ---
