@@ -8,6 +8,7 @@
       link: /customers/primary-care-providers
 
 - label: Discover Lav
+  items:
     - name: Retail Clinics and Payers
       link: /customers/retail-clinics/
     - name: Senior Living Communities
@@ -20,8 +21,9 @@
       link: /customers/pharmaceutical-and-diagnostic-researchers/
     - name: Digital Health Organizations
       link: /customers/digital-health-organizations/
-      
+
 - label: Mobile App
+  items:
     - name: Retail Clinics and Payers
       link: /customers/retail-clinics/
     - name: Senior Living Communities
