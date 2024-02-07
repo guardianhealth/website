@@ -14,3 +14,5 @@ Lifestyle and wellness program quality is a major criteria senior residents use 
 - Reduce resident turnover by improving their overall satisfaction with the community
 - Maintain higher occupancy rates and months of stay by helping residents stay healthy and independent
 - Reduce resident and community healthcare costs by reducing direct-care staff demand
+
+![Image](/img/senior-living-communities.png){:class="img-responsive"}

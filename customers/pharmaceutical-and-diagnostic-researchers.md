@@ -9,3 +9,5 @@ menubar: customers_menu
 ---
 
 # Pharmaceutical and Diagnostic Researchers
+
+![Image](/img/pharma.jpg){:class="img-responsive"}
