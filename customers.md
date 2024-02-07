@@ -2,9 +2,9 @@
 layout: page
 title: Customers
 hero_height: is-short
-hero_image: /website/img/guardian-web-home-cover.jpg
+hero_image: /website/img/guardian-web-home-cover-1.jpg
 show_sidebar: false
-callouts: customer_callouts
+menubar: customers_menu
 ---
 
 # Retail Clinics and Payers
