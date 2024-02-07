@@ -17,4 +17,4 @@ Medic provides a convenient, low cost solution to primary care providers whose p
 - Improved efficiency of care delivery to their patients
 - Improved patient retention and loyalty
 
-![Image](/img/primary-care-providers.png){:class="img-responsive"}
+![Image](/website/img/primary-care-providers.png){:class="img-responsive"}

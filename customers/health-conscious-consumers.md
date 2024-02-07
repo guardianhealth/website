@@ -16,4 +16,4 @@ Medic fits naturally into the daily “life flow” of wellness-oriented Individ
 - Increased patient – provider interaction when developing treatment plans
 - Can choose to share their own health trends and view their children’s, giving them complete peace of mind
 
-![Image](/img/health-concious-consumers.jpg){:class="img-responsive"}
+![Image](/website/img/health-concious-consumers.jpg){:class="img-responsive"}

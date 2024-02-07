@@ -14,4 +14,4 @@ Medic provides a convenient and seamless solution to retail clinic customers who
 - Additional value added services that increase store traffic – growing cross selling and services revenue
 - Increased value to their Member Rewards and Corporate / Payer wellness programs that reduce the healthcare costs for all involved
 
-![Image](/img/Retail-clinics-and-payers.png){:class="img-responsive"}
+![Image](/website/img/Retail-clinics-and-payers.png){:class="img-responsive"}
