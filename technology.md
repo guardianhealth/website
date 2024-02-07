@@ -2,7 +2,7 @@
 layout: page
 title: Technology
 hero_height: is-medium
-hero_image: /website/img/guardian-technology-cover.jpg
+hero_image: /website/img/guardian-technology-home-cover.jpg
 show_sidebar: false
 ---
 
