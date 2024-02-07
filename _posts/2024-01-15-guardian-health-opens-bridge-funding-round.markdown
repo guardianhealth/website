@@ -9,9 +9,9 @@ published: true
 canonical_url: https://www.guardianhealth.care/news/2024/01/15/guardian-health-opens-bridge-funding-round.html
 ---
 
-SPANISH FORK, Utah--Guardian Health (www.guardianhealth.care), a pioneer in the advancement of science to support wellness, has opened a bridge funding round.  Having completed a strategic acquisition of valuable technology assets, the company is preparing a beta product launch to validate its flagship product, the Guardian Lav.  The Guardian Lav is a smart, medical toilet that monitors key health and wellness indicators with no disruption to users' daily routines.
+SPANISH FORK, Utah--Guardian Health (www.guardianhealth.care), a pioneer in the advancement of science to support wellness, has opened a bridge funding round.  Using technologies developed by the founding partners, the company is preparing a beta product launch to validate its flagship product, the Guardian Lav.  The Guardian Lav is a smart, medical toilet that monitors key health and wellness indicators with no disruption to users' daily routines.
 
-After beta testing of the Guardian Lav is complete, the company anticipates moving into a limited commercial release in Q3 2024.  The product is marketed towards assisted living markets, with a general consumer offering to follow soon after.
+The company anticipates moving into a limited commercial release of the Guardian Lav in Q3 2024.  The product is marketed towards assisted living markets, with a general consumer offering to follow soon after.
 
 Jeff Campbell, CEO of Guardian Health, plans to apply the proceeds of the bridge funding round towards tooling and operations for the limited commercial release.
 
