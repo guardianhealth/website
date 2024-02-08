@@ -6,5 +6,3 @@ hero_image: /website/img/guardian-technology-cover.jpg
 show_sidebar: false
 menubar: technology_menu
 ---
-
-![Image](/website/img/digital-health-organizations.jpg){:class="img-responsive"}
