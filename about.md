@@ -7,7 +7,8 @@ hero_image: /website/img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 ---
 
-** OUR MISSION **
+>**OUR MISSION**
+>
 > Transform the model of health and wellness management by making frequent, valuable measurements of critical health indicators a seamless part of daily routines.
 
 Over 100 million Americans have either a prechronic illness, or a disease and the majority don’t even know it. Early detection, intervention and timely personal monitoring matters; but, improving wellbeing requires consumer interactions to be easy, convenient and fit naturally into their daily “life flow.”
