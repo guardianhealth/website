@@ -1,13 +1,13 @@
 - label: Customers
   items:
+    - name: Health Conscious Consumers
+      link: /customers/health-conscious-consumers/
     - name: Retail Clinics and Payers
       link: /customers/retail-clinics/
     - name: Senior Living Communities
       link: /customers/senior-living-communities/
     - name: Primary Care Providers
       link: /customers/primary-care-providers
-    - name: Health Conscious Consumers
-      link: /customers/health-conscious-consumers/
     - name: Pharmaceutical and Diagnostic Researchers
       link: /customers/pharmaceutical-and-diagnostic-researchers/
     - name: Digital Health Organizations
