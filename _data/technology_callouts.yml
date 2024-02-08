@@ -1,0 +1,30 @@
+style: is-light
+height: is-medium
+items:
+  - title: Guardian Lav
+    subtitle: First to Market
+    image: /website/img/480x480.png
+    description: >
+      The Guardian Lav is the first Guardian Health product.
+
+      It provides trending of basic but critical health metrics.
+    call_to_action_name: Learn More
+    call_to_action_link: /technology/guardian-lav/
+  - title: Discover Lav
+    subtitle: Expanded Diagnostic Capability
+    image: /website/img/480x480.png
+    description: >
+      The Discover Lav expands beyond basic trending capabilities.
+
+      Molecular diagnostics and identification of critical disease states are included.
+    call_to_action_name: Learn More
+    call_to_action_link: /technology/discover-lav/
+  - title: Mobile App
+    subtitle: Data Visibility and Control
+    image: /website/img/480x480.png
+    description: >
+      The mobile app (and browser alternate) provide access and control for data.
+
+      Individuals, facilities, caregiviers, and medical providers can access useful health data.
+    call_to_action_name: Learn More
+    call_to_action_link: /technology/mobile-app/
