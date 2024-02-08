@@ -1,0 +1,71 @@
+style: is-light
+height: is-medium
+items:
+  - title: Obesity
+    subtitle: 
+    icon: fa-space-shuttle
+    description: >
+      71.6% of adults 20+ are overweight or obese (39.8%) and it’s rising. Obesity is linked to more than 60 chronic diseases including diabetes, one of the top 5 leading causes of death, and costs Americans $147 billion each year.1,2
+  - title: Dehydration
+    subtitle: 
+    icon: fa-space-shuttle
+    description: >
+      75% of Americans are chronically dehydrated that leads to short-term memory loss, fatigue, irritability, and an increased risk of kidney stones, urinary tract infections, and accidental falls in seniors.3,4
+  - title: Cardiovascular Disease
+    subtitle: 
+    icon: fa-space-shuttle
+    description: >
+      Heart disease is the leading cause of death for both men and women. 1 person dies every 37 seconds, and it is the cause of 1 in every 4 deaths. 647,000 Americans die from heart disease every year, totaling more than $219 billion in medical expenses. 7 
+  - title: Diabetes
+    subtitle: 
+    icon: fa-space-shuttle
+    description: >
+      88 million (34.5%) of American adults currently have prediabetes and 8 in 10 don’t even know they have it.8,9 ,10 
+  - title: Hypertension
+    subtitle: 
+    icon: fa-space-shuttle
+    description: >
+      Affects 116.4 million (46%) of American adults. #1 contributing risk for death globally. Only 50% of people with high blood pressure are aware of it until tested.11,12  
+  - title: Chronic Kidney Disease
+    subtitle: 
+    icon: fa-space-shuttle
+    description: >
+      37 million (15%) of American adults are estimated to have chronic kidney disease (CKD). 9 out of 10 adults don’t know they have it. Prevention is possible by controlling high blood pressure and blood glucose levels. 20 – 40% of people with diabetes develop kidney disease.15,16 
+  - title: Kidney Failure
+    subtitle:
+    icon: fa-space-shuttle
+    description: >
+      661,000 Americans had kidney failure this year. Of these, 468,000 individuals are on dialysis, and roughly 193,000 live with a functioning kidney transplant. 3 percent of people with CKD experience kidney failure. Each year, kidney disease kills more people than breast or prostate cancer.17,18 
+  - title: Urinary Tract Function
+    subtitle:
+    icon: fa-space-shuttle
+    description: >
+      (Uroflowmetry) – Prostate enlargement (BPH) affects 5 of 10 American men ages 51 – 60, and 9 of 10 ages 80+ (27 million total). 1 in 4 women over the age of 18 will experience urinary incontinence (UI). That’s 25 million in the US, 200 million worldwide. 19,20 ) 
+  - title: Urinary Tract Infections
+    subtitle:
+    icon: fa-space-shuttle
+    description: >
+      50–60% of women will experience a UTI in their lifetime. The estimated number of UTIs per person per year is 0.5 in young females. Recurrences usually occur within three months of the original infection, and 80% of UTIs are reinfections.21 
+  - title: Biomarker Detection
+    subtitle:
+    icon: fa-space-shuttle
+    description: >
+      Biomarkers are measurable indicators of the presence and severity of diseases and can act as indicators of the change in progression, or susceptibility of the disease to a given treatment. Biomarkers hold the promise to minimizing the burden of cancer, Parkinson’s, and Alzheimer’s.
+  - title: Single Virus Pathogen Detection
+    subtitle:
+    icon: fa-space-shuttle
+    description: >
+      Emerging infectious diseases (EIDs) are a significant burden on global economies and public health. SARS infected over 8,096 people, killed 776. and wiped $40 billion off world markets. The Coronavirus has infected 85,403 and killed 2,924 as of February 29 and projected to cost the global economy trillions of dollars.22,23,24,25 
+
+
+  - title: Contact Us
+    subtitle: Example subtitle 3
+    icon: fa-github
+    icon_brand: true
+    image: /website/img/480x480.png
+    description: >
+      The example description text goes here and can be multiple lines.
+
+      For example, such as this.
+    call_to_action_name: Call to action 3
+    call_to_action_link: /contact/
