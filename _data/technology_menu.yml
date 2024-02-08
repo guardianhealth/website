@@ -23,9 +23,9 @@
       items: 
       - name: Security and Privacy
         link: /technology/app/security-and-privacy/
-      - name: Cardio Seat
-        link: /technology/guardian/cardio-seat/
-      - name: Smart Toilet
-        link: /technology/guardian/smart-toilet/
-      - name: Urine Analysis
-        link: /technology/guardian/urine-analysis/
+      - name: Risk Indicators
+        link: /technology/app/risk-indicators/
+      - name: Trending
+        link: /technology/app/data-trending/
+      - name: Controlled Data Sharing
+        link: /technology/app/data-sharing/
