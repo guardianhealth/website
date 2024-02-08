@@ -1,11 +1,17 @@
 - label: Guardian Lav
   items:
     - name: Communication
-      link: /customers/retail-clinics/
-    - name: Senior Living Communities
-      link: /customers/senior-living-communities/
-    - name: Primary Care Providers
-      link: /customers/primary-care-providers
+      link: /technology/guardian/communication/
+    - name: Cardio Seat
+      link: /technology/guardian/cardio-seat/
+    - name: Smart Toilet
+      link: /technology/guardian/smart-toilet/
+    - name: Smart Toilet
+      link: /technology/guardian/smart-toilet/
+    - name: Smart Toilet
+      link: /technology/guardian/smart-toilet/
+    - name: Smart Toilet
+      link: /technology/guardian/smart-toilet/
 
 - label: Discover Lav
   items:
