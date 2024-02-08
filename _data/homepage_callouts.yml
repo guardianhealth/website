@@ -4,6 +4,7 @@ items:
   - title: Market
     subtitle: Example subtitle 1
     icon: fa-space-shuttle
+    image: /website/img/480x480.png
     description: >
       The example description text goes here and can be multiple lines.
 
@@ -23,6 +24,7 @@ items:
     subtitle: Example subtitle 3
     icon: fa-github
     icon_brand: true
+    image: /website/img/480x480.png
     description: >
       The example description text goes here and can be multiple lines.
 
