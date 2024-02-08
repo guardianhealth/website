@@ -13,19 +13,3 @@
         link: /technology/guardian/urine-analysis/
       - name: Urine Flow
         link: /technology/guardian/urine-flow/
-    - name: Discover Lav
-      link: /technology/discover-lav
-      items:
-      - name: Molecular Diagnostics
-        link: /technology/discover/molecular-diagnostics/
-    -name: Mobile App
-      link: /technology/mobile-app/
-      items:
-      - name: Security and Privacy
-        link: /technology/app/security-and-privacy/
-      - name: Risk Indicators
-        link: /technology/app/risk-indicators/
-      - name: Trending
-        link: /technology/app/data-trending/
-      - name: Controlled Data Sharing
-        link: /technology/app/data-sharing/
