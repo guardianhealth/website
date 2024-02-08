@@ -12,7 +12,7 @@ items:
     call_to_action_link: /customers/
   - title: Technology
     subtitle: Example subtitle 2
-    image: /website/img/pharma.jpg/
+    image: /website/img/cardio-seat.png
     description: >
       The example description text goes here and can be multiple lines.
 
