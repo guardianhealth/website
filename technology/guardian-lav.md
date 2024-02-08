@@ -2,7 +2,7 @@
 layout: page
 title: Technology
 subtitle: Guardian Lav
-hero_height: is-medium
+hero_height: is-short
 hero_image: /website/img/guardian-technology-cover.jpg
 show_sidebar: false
 menubar: technology_menu

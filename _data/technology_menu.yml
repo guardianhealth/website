@@ -13,3 +13,8 @@
         link: /technology/guardian/urine-analysis/
       - name: Urine Flow
         link: /technology/guardian/urine-flow/
+    - name: Discover Lav
+      link: /technology/discover-lav/
+      items: 
+      - name: Communication
+        link: /technology/guardian/communication/
