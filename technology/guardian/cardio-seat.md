@@ -5,23 +5,23 @@ subtitle: Cardio Seat
 hero_height: is-short
 hero_image: /website/img/guardian-technology-cover.jpg
 show_sidebar: false
-menubar: technology_menu
+menubar: guardian_menu
 ---
 
 ![Image](/website/img/guardian/cardio-seat.png){:class="img-responsive"}
 
-The toilet seat employs the following technologies:
+## Technologies
 - Photoplethmysography (PPG)
 - Load Cells/Ballistocardiogram (BCG)
 - Electrocardiogram (ECG)
 
-Data outputs include:
+## Data Outputs
 - Heart Rate
 - Heart Rate Variability
 - Blood Pressure
 - Blood Oxygen Saturation
 
-Relevant health and wellness categories include:
+## Relevant Health and Wellness Categories
 - Hypertension
 - Cardiovascular Disease
 - Cardiovascular Fitness

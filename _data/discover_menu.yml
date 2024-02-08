@@ -1,0 +1,11 @@
+- label: Technology
+  items:
+    - name: Guardian Lav
+      link: /technology/guardian-lav/
+    - name: Discover Lav
+      link: /technology/discover-lav/
+      items: 
+      - name: Molecular Diagnostics
+        link: /technology/discover/molecular-diagnostics/
+    - name: Mobile App
+      link: /technology/mobile-app/

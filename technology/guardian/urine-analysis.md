@@ -5,18 +5,18 @@ subtitle: Urine Analysis
 hero_height: is-short
 hero_image: /website/img/guardian-technology-cover.jpg
 show_sidebar: false
-menubar: technology_menu
+menubar: guardian_menu
 ---
 
 ![Image](/website/img/guardian/urine.png){:class="img-responsive"}
 
-The toilet seat employs the following technologies:
+## Technologies
 - Refractometry
 - Urine Conductivity
 - Chemical color-change assays
 - Temperature Measurement
 
-Data outputs include:
+## Data Outputs
 - Urine Temperature
 - Urine Specific Gravity
 - Urine Glucose
@@ -26,7 +26,7 @@ Data outputs include:
 - Urine Nitrite
 - Urine Blood
 
-Relevant health and wellness categories include:
+## Relevant Health and Wellness Categories
 - Diabetes
 - Dehydration
 - Hypertension

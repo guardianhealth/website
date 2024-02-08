@@ -1,0 +1,19 @@
+- label: Technology
+  items:
+    - name: Guardian Lav
+      link: /technology/guardian-lav/
+      items: 
+      - name: Cardio Seat
+        link: /technology/guardian/cardio-seat/
+      - name: Urine Analysis
+        link: /technology/guardian/urine-analysis/
+      - name: Urine Flow
+        link: /technology/guardian/urine-flow/
+      - name: Communication
+        link: /technology/guardian/communication/
+      - name: Smart Toilet
+        link: /technology/guardian/smart-toilet/
+    - name: Discover Lav
+      link: /technology/discover-lav/
+    - name: Mobile App
+      link: /technology/mobile-app/
