@@ -7,8 +7,8 @@
                     {% for callout in callouts.items %}
                         <div class="column is-4 has-text-centered">
                             {% if callout.image %}
-                            <figure class="image is-square">
-                                <img src="{{ callout.image }}" alt="picture">
+                            <figure class="image is-10 is-square">
+                                <img src="{{ callout.image }}" alt="picture" class="image-responsive">
                             </figure>
                             {% else %}
                             {% endif %}
