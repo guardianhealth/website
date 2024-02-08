@@ -16,5 +16,16 @@
     - name: Discover Lav
       link: /technology/discover-lav/
       items: 
-      - name: Communication
-        link: /technology/guardian/communication/
+      - name: Molecular Diagnostics
+        link: /technology/discover/molecular-diagnostics/
+    - name: Mobile App
+      link: /technology/mobile-app/
+      items: 
+      - name: Security and Privacy
+        link: /technology/app/security-and-privacy/
+      - name: Cardio Seat
+        link: /technology/guardian/cardio-seat/
+      - name: Smart Toilet
+        link: /technology/guardian/smart-toilet/
+      - name: Urine Analysis
+        link: /technology/guardian/urine-analysis/
