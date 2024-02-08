@@ -56,16 +56,3 @@ items:
     icon: fa-space-shuttle
     description: >
       Emerging infectious diseases (EIDs) are a significant burden on global economies and public health. SARS infected over 8,096 people, killed 776. and wiped $40 billion off world markets. The Coronavirus has infected 85,403 and killed 2,924 as of February 29 and projected to cost the global economy trillions of dollars.22,23,24,25 
-
-
-  - title: Contact Us
-    subtitle: Example subtitle 3
-    icon: fa-github
-    icon_brand: true
-    image: /website/img/480x480.png
-    description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this.
-    call_to_action_name: Call to action 3
-    call_to_action_link: /contact/
