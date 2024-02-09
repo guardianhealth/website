@@ -6,13 +6,15 @@
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
                         <div class="column is-4 is-centered has-text-centered">
-                            <div class="columns is-6 is-centered">
-                                {% if callout.image %}
-                                <figure class="image is-square">
-                                    <img src="{{ callout.image }}" alt="picture" class="image-responsive">
-                                </figure>
-                                {% else %}
-                                {% endif %}
+                            <div class="columns is-centered">
+                                <div class="column is-6"></div>
+                                    {% if callout.image %}
+                                    <figure class="image is-square">
+                                        <img src="{{ callout.image }}" alt="picture" class="image-responsive">
+                                    </figure>
+                                    {% else %}
+                                    {% endif %}
+                                </div>
                             </div>
                             {% if callout.icon %}
                             <div class="icon callout-icon">
