@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0.00 0.00 158.00 164.00"
+   id="svg34"
+   sodipodi:docname="dehydration.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="5.2439024"
+     inkscape:cx="79"
+     inkscape:cy="82"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <path
+     fill="#71b443"
+     d="   M 45.72 67.75   C 54.44 50.45 66.00 35.22 79.64 20.68   A 0.73 0.73 0.0 0 1 80.71 20.69   C 97.21 38.75 112.45 58.57 120.00 81.91   C 123.90 93.98 124.50 106.10 119.36 117.51   C 112.59 132.53 97.41 139.51 81.27 140.04   Q 72.72 140.32 66.06 138.23   C 53.92 134.42 43.08 126.15 39.22 113.81   Q 37.53 108.42 37.43 100.77   Q 37.21 84.64 45.72 67.75   Z   M 70.7070 100.0939   A 7.55 5.85 92.3 0 0 76.8553 92.7848   A 7.55 5.85 92.3 0 0 71.3130 85.0061   A 7.55 5.85 92.3 0 0 65.1647 92.3152   A 7.55 5.85 92.3 0 0 70.7070 100.0939   Z   M 86.87 85.25   L 85.75 84.62   A 0.29 0.29 0.0 0 0 85.36 84.72   L 71.75 108.49   A 1.86 0.49 -60.2 0 0 71.25 110.35   L 72.01 110.79   A 1.86 0.49 -60.2 0 0 73.36 109.42   L 86.97 85.65   A 0.29 0.29 0.0 0 0 86.87 85.25   Z   M 86.7634 110.2634   A 7.56 5.83 92.4 0 0 92.9049 102.9541   A 7.56 5.83 92.4 0 0 87.3966 95.1566   A 7.56 5.83 92.4 0 0 81.2551 102.4659   A 7.56 5.83 92.4 0 0 86.7634 110.2634   Z"
+     id="path22" />
+  <path
+     fill="#71b443"
+     d="   M 70.9609 98.1299   A 5.55 3.23 90.3 0 1 67.7600 92.5631   A 5.55 3.23 90.3 0 1 71.0191 87.0301   A 5.55 3.23 90.3 0 1 74.2200 92.5969   A 5.55 3.23 90.3 0 1 70.9609 98.1299   Z"
+     id="path28" />
+  <path
+     fill="#71b443"
+     d="   M 87.0800 108.2900   A 5.56 3.24 90.0 0 1 83.8400 102.7300   A 5.56 3.24 90.0 0 1 87.0800 97.1700   A 5.56 3.24 90.0 0 1 90.3200 102.7300   A 5.56 3.24 90.0 0 1 87.0800 108.2900   Z"
+     id="path32" />
+</svg>
