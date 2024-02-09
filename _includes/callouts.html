@@ -6,14 +6,13 @@
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
                         <div class="column is-4 has-text-centered">
-                            <div class="column is-6"></div>
-                                {% if callout.image %}
-                                <figure class="image is-square">
-                                    <img src="{{ callout.image }}" alt="picture" class="image-responsive">
-                                </figure>
-                                {% else %}
-                                {% endif %}
-                            </div>
+                            {% if callout.image %}
+                            <figure class="image is-4 is-square">
+                                <img src="{{ callout.image }}" alt="picture" class="image-responsive">
+                            </figure>
+                            {% else %}
+                            {% endif %}
+
                             {% if callout.icon %}
                             <div class="icon callout-icon">
                             {% if callout.icon_brand %}
@@ -44,4 +43,5 @@
         </div>
     </section>
 {% endif %}
+
 
