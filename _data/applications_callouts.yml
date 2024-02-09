@@ -33,7 +33,7 @@ items:
       37 million (15%) of American adults are estimated to have chronic kidney disease (CKD). 9 out of 10 adults don’t know they have it. Prevention is possible by controlling high blood pressure and blood glucose levels. 20 – 40% of people with diabetes develop kidney disease.15,16 
   - title: Kidney Failure
     subtitle:
-    icon: fa-space-shuttle
+    image: /website/img/icons/kidney-failure.svg
     description: >
       661,000 Americans had kidney failure this year. Of these, 468,000 individuals are on dialysis, and roughly 193,000 live with a functioning kidney transplant. 3 percent of people with CKD experience kidney failure. Each year, kidney disease kills more people than breast or prostate cancer.17,18 
   - title: Urinary Tract Function
