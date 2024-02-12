@@ -5,11 +5,12 @@ subtitle: Turning waste into wellness
 hero_height: is-medium
 hero_image: /website/img/guardian-web-home-cover-1.jpg
 show_sidebar: false
-callouts: homepage_callouts
+
 ---
 
->Challenge #1: 
+># Challenge #1:
 >Early Detection, Intervention, and timely monitoring matters
+
 ## Prediabetes
 88 million (34.5%) of American adults currently have prediabetes and 8 in 10 don’t even know they have it.
 ## Hypertension
@@ -19,7 +20,7 @@ callouts: homepage_callouts
 ## Dehydration
 75% of Americans are chronically dehydrated that leads to short-term memory loss, fatigue, irritability, and an increased risk of kidney stones, urinary tract infections, and accidental falls in seniors.
 
->Challenge #2:
+># Challenge #2:
 >Improving wellbeing requires consumer interactions to be easy, convenient, and fit naturally into their daily "life flow."
 
 
