@@ -23,5 +23,6 @@ callouts: homepage_callouts
 >Improving wellbeing requires consumer interactions to be easy, convenient, and fit naturally into their daily "life flow."
 
 
+
 # Guardian Health: The Solution
 Guardian Health provides innovative new solutions to passively track and record user's important health data during a regular bathroom visit.
