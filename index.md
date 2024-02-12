@@ -8,8 +8,20 @@ show_sidebar: false
 callouts: homepage_callouts
 ---
 
-This is an example landing page. It is built using the Hero and Callouts.
+>Challenge #1: 
+>Early Detection, Intervention, and timely monitoring matters
+## Prediabetes
+88 million (34.5%) of American adults currently have prediabetes and 8 in 10 don’t even know they have it.
+## Hypertension
+116.4 million (46%) of American adults have hypertension. It’s the number 1 contributing risk for global death. 5 in 10 don’t know they have it.
+## Chronic Kidney Disease
+37 million (15%) of American adults have chronic kidney disease (CKD). 9 out of 10 don’t know they have it. Prevention is possible by controlling high blood pressure and blood glucose levels.
+## Dehydration
+75% of Americans are chronically dehydrated that leads to short-term memory loss, fatigue, irritability, and an increased risk of kidney stones, urinary tract infections, and accidental falls in seniors.
 
-[View the Hero docs](/bulma-clean-theme/docs/pages/hero/)
+>Challenge #2:
+>Improving wellbeing requires consumer interactions to be easy, convenient, and fit naturally into their daily "life flow."
 
-[View the Callouts docs](/bulma-clean-theme/docs/page-components/callouts)
+
+# Guardian Health: The Solution
+Guardian Health provides innovative new solutions to passively track and record user's important health data during a regular bathroom visit.
