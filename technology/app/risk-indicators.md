@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technology
-subtitle: Mobile App
+subtitle: Risk Indicators
 hero_height: is-short
 hero_image: /website/img/guardian-technology-cover.jpg
 show_sidebar: false
@@ -10,4 +10,7 @@ menubar: mobileapp_menu
 
 ![Image](/website/img/guardian/technology/app_square.png){:class="img-responsive"}
 
-The Guardian Health app provides access and control of data, accounts, and devices.
+The mobile app compiles various raw data inputs to form a risk score for certain conditions.
+- Hydration
+- Prostate wellness (for males)
+- Kidney wellness (future)

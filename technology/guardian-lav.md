@@ -10,4 +10,4 @@ menubar: guardian_menu
 
 ![Image](/website/img/guardian/guardian-lav.png){:class="img-responsive"}
 
-Lorem ipsum dolorem set
+The Guardian Lav is the first product from Guardian Health.  The Guardian Lav provides continuous, passive monitoring of important health and wellness indicators.
