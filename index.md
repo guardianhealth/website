@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guardian Health
+title: LavWell Technologies
 subtitle: Turning waste into wellness
 hero_height: is-medium
 hero_image: /website/img/guardian-web-home-cover-1.jpg
@@ -25,5 +25,5 @@ show_sidebar: false
 
 
 
-# Guardian Health: The Solution
-Guardian Health provides innovative new solutions to passively track and record user's important health data during a regular bathroom visit.
+# LavWell Technologies: The Solution
+LavWell Technologies provides innovative new solutions to passively track and record user's important health data during a regular bathroom visit.

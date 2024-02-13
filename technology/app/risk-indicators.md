@@ -10,7 +10,7 @@ menubar: mobileapp_menu
 
 ![Image](/website/img/guardian/technology/app_square.png){:class="img-responsive"}
 
-The mobile app compiles various raw data inputs to form a risk score for certain conditions.
+The LavWell app compiles various raw data inputs to form a risk score for certain conditions.
 - Hydration
 - Prostate wellness (for males)
 - Kidney wellness (future)

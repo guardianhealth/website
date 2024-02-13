@@ -1,11 +1,11 @@
 # Site Settings
 remote_theme: chrisrhymes/bulma-clean-theme
 lang: en
-title: Guardian Health
+title: LavWell Technologies
 tagline: Turning waste into wellness
-email: info@guardianhealth.care
+email: info@lavwell.com
 description: >
-  Guardian Health is building a new model of preventative wellness management through passive, continous measurement
+  LavWell Technologies is building a new model of preventative wellness management through passive, continous measurement
 baseurl: "/website"
 url: "https://www.guardianhealth.github.io"
 permalink: pretty
@@ -66,7 +66,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Guardian Health"
+      author: "LavWell Technologies"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true

@@ -7,4 +7,4 @@ show_sidebar: false
 menubar: customers_menu
 ---
 
-Guardian Health is developing products to serve several customer segments.
+LavWell Technologies is developing products to serve several customer segments.

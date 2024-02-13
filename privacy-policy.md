@@ -6,9 +6,9 @@ show_sidebar: false
 
 # Privacy Policy
 
-Guardian Health, Inc. operates the site (www.guardianhealth.care) to provide services including marketing, distribution, and promotion of the company and its products.
+Guardian Health, Inc. (dba "LavWell Technologies," and "LavWell") operates the site (www.lavwell.com) to provide services including marketing, distribution, and promotion of the company and its products.
 
-Guardian Health is committed to protecting users' privacy and addressing potentisl privacy concerns.  The followin ginformation has been posted to help you, the website visitor, understand what private information we collect and how your information is used.
+Guardian Health is committed to protecting users' privacy and addressing potentisl privacy concerns.  The following information has been posted to help you, the website visitor, understand what private information we collect and how your information is used.
 
 # Types of private information collected
 To best serve your needs, we collect the following types of information when you visit www.guardianhealth.com.
@@ -23,10 +23,10 @@ We collect the following information from our users:
 You can always choose to provide less information.  However, omitting some of this personal information may limit your ability to access all of the benefits of our website and services.  For example, we will not be able to contact you without your personal contact information.
 
 ## Automatically collected information
-We automatically collect data on how our users visit www.guardianhealth.care, such as your IP address.  The site www.guardianhealth.care is served by GitHub Pages.  More information about GitHub's use of IP addresses is available here (https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and here (https://docs.github.com/en/site-policy/privacy-policies).
+We automatically collect data on how our users visit www.guardianhealth.care, such as your IP address.  The site www.lavwell.com is served by GitHub Pages.  More information about GitHub's use of IP addresses is available here (https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and here (https://docs.github.com/en/site-policy/privacy-policies).
 
 ## Social media information
-We do not collect any social media information through the site www.guardianhealth.care.  We do, however, collect demographic data when users interact with Guardian Healh social media accounts.
+We do not collect any social media information through the site www.lavwell.com.  We do, however, collect demographic data when users interact with Guardian Health/LavWell social media accounts.
 
 # Policy on collecting sensitive personal information
 Guardian Health does not gather any of your sensitive information through interation with www.guardianhealth.care, such as your social security number, driver's license number, race, ethnicity, religion, health metrics, political associations, or details on your criminal background.
@@ -59,7 +59,7 @@ We will never share your personal information for advertising purposes.
 GitHub's policies on information sharing is available here (https://docs.github.com/en/site-policy/privacy-policies).
 
 # Third party links
-The site www.guardianhealth.care may contain links to third party websites. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you on our Site. Other sites accessible through our site via links or otherwise have their own policies in regard to privacy. We are not responsible for the privacy policies or practices of third parties. 
+The site www.lavwell.com may contain links to third party websites. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you on our Site. Other sites accessible through our site via links or otherwise have their own policies in regard to privacy. We are not responsible for the privacy policies or practices of third parties. 
 
 # Children's Online Privacy Protection Act (COPPA)
 
@@ -86,7 +86,7 @@ We do our best to keep your private information secure and safe.  Most of your p
 You can, of course, decline to disclose your personal information to us.  However, the failure to provide us with pertinent informatio may limit your ability to fully benefit from Guardian Health and all of its offerings.  Remember, we only ask for personal information that can help us fully provide our services to our customers.
 
 # Additional questions
-If you have questions regarding this privacy policy, feel free to contact us at info@guardianhealth.care.  A Guardian Health representative will respond to your privacy policy questions as soon as possible.
+If you have questions regarding this privacy policy, feel free to contact us at info@lavwell.com.  A Guardian Health representative will respond to your privacy policy questions as soon as possible.
 
 # Policy Update
 This privacy policy was last updated on February 12, 2024.  Updates to the privacy policy will be posted here.  Once posted, the new privacy policy shall be effective immediately.

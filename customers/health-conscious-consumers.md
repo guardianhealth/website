@@ -9,7 +9,7 @@ menubar: customers_menu
 ---
 
 # Health Conscious Consumers
-Medic fits naturally into the daily “life flow” of wellness-oriented Individuals and families who are concerned with nutrition, fitness, stress, their environment, and accept responsibility for their overall health and wellness. Medic offers consumers…
+LavWell Technologies fits naturally into the daily “life flow” of wellness-oriented Individuals and families who are concerned with nutrition, fitness, stress, their environment, and accept responsibility for their overall health and wellness. LavWell offers consumers…
 - Passive detection, monitoring and reporting of major healthcare risk factors after every bathroom event
 - Early detection of health risks, allowing consumers to take an active role in their health through prevention
 - Easy, flexible and more convenient interactions with healthcare providers

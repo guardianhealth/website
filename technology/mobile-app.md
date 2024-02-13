@@ -10,4 +10,4 @@ menubar: mobileapp_menu
 
 ![Image](/website/img/guardian/technology/app_square.png){:class="img-responsive"}
 
-The Guardian Health app provides access and control of data, accounts, and devices.
+The LavWell app provides access and control of data, accounts, and devices.
