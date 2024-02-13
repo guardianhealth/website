@@ -9,18 +9,18 @@ published: true
 canonical_url: https://www.guardianhealth.care/news/2024/01/15/guardian-health-opens-bridge-funding-round.html
 ---
 
-SPANISH FORK, Utah--Guardian Health (www.guardianhealth.care), a pioneer in the advancement of science to support wellness, has opened a bridge funding round.  Using technologies developed by the founding partners, the company is preparing a beta product launch to validate its flagship product, the Guardian Lav.  The Guardian Lav is a smart, medical toilet that monitors key health and wellness indicators with no disruption to users' daily routines.
+Provo, Utah--Guardian Health (www.guardianhealth.care), a pioneer in the advancement of science to support wellness, has opened a bridge funding round.  Using technologies developed by the founding partners, the company is preparing a beta product launch to validate its flagship product, the Guardian Lav.  The Guardian Lav is a smart, medical toilet that monitors key health and wellness indicators with no disruption to users' daily routines.
 
 The company anticipates moving into a limited commercial release of the Guardian Lav in Q3 2024.  The product is marketed towards assisted living markets, with a general consumer offering to follow soon after.
 
-Jeff Campbell, CEO of Guardian Health, plans to apply the proceeds of the bridge funding round towards tooling and operations for the limited commercial release.
+Jeff Campbell, CEO of Guardian Health, plans to apply the proceeds of the bridge funding round toward accellerating and increasing manufacturing capacity in the limited commercial release.
 
-**Guardian Lav** The Guardian Lav 0.9 is a high-quality smart toilet that gathers two health metrics passively during each bathroom visit.  Future versions will add capability for enhanced urine screening, enabling proactive early screening of health risks and ongoing trending of wellness.  The company expects that once the product is in place, it will become a platform for other scientists and innovators to develop new applications and sensors to monitor health and wellness of individuals.
+**Guardian Lav** The Guardian Lav is a high-quality smart toilet that gathers multiple health metrics completely passively during each bathroom visit, enabling proactive early screening of health risks and ongoing trending of wellness. Future versions of the Guardian Lav will implement additional capability for enhanced urine screening. The company expects that once the product is in place, it will become a platform for other scientists and innovators to develop new applications and sensors to monitor health and wellness for individual users.
 
 The Guardian Lav is a luxury toilet including a bidet, heated seat, and air dryer.
 
-**Guardian App** The Guardian app allows users to access personal health trends and provides notifications, if desired, on a mobile device or computer.  Guardian's data and trends are encrypted and HIPAA compliant to ensure privacy.  Individuals can choose to securely deliver Guardian's trending information to their doctor, family, and health care providers.  Where adopted in an assisted living facility, the Guardian App gives data visibility to caregivers to enable improved and enhanced care for facility residents.  
+**Guardian App** The Guardian app allows users to access personal health trends and provides notifications, if desired, on a mobile device or computer.  Guardian's data and trends are encrypted and HIPAA compliant to ensure privacy.  Individuals can choose to securely provide Guardian's trending information to their doctor, family, and caregivers.  Where adopted in an assisted living facility, the Guardian App gives data visibility to staff to enable improved and enhanced care for facility residents.  
 
-"It is inevitable that twenty years from now, we will all be tracking our health with sensors in a toilet," said Campbell.  "The opportunity is simply too huge to pass up."
+"A healthcare future with realistic early prevention is now more possible than ever," said Campbell.  "The impact of actionable health notifications empowering people to make more proactive, informed descisions about their well-being is game-changing."
 
 For more information visit www.guardianhealth.care.
