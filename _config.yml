@@ -10,6 +10,7 @@ baseurl: "/website"
 url: "https://www.guardianhealth.github.io"
 permalink: pretty
 favicon: /website/img/GuardianHealthLogoMark.png
+#navbar_icon image must have an aspect ratio of 3-by-1, or the file /includes/header.html needs an update
 navbar_icon: /website/navbar-icon.png
 #hide_share_buttons: true
 theme_color: '#00827f'
