@@ -10,6 +10,7 @@ baseurl: "/website"
 url: "https://www.guardianhealth.github.io"
 permalink: pretty
 favicon: /website/img/GuardianHealthLogoMark.png
+#navbar_icon: /website/img/navbar-icon.png
 #hide_share_buttons: true
 theme_color: '#00827f'
 #fixed_navbar: top
