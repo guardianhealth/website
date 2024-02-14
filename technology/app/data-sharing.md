@@ -8,7 +8,7 @@ show_sidebar: false
 menubar: mobileapp_menu
 ---
 
-![Image](/img/guardian/technology/app_square.png){:class="img-responsive"}
+![Image](/img/mobile-app/app.png){:class="img-responsive"}
 
 The LavWell app gives the user complete control of personal health data.
 - Default settings for all health data give visibility to the user (and to the care facility for a facility-owned device)

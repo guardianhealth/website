@@ -8,6 +8,6 @@ show_sidebar: false
 menubar: mobileapp_menu
 ---
 
-![Image](/img/guardian/technology/app_square.png){:class="img-responsive"}
+![Image](/img/mobile-app/app.png){:class="img-responsive"}
 
 The LavWell app provides access and control of data, accounts, and devices.

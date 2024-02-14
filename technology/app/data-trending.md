@@ -8,6 +8,6 @@ show_sidebar: false
 menubar: mobileapp_menu
 ---
 
-![Image](/img/guardian/technology/app_square.png){:class="img-responsive"}
+![Image](/img/mobile-app/trending.png){:class="img-responsive"}
 
 Data is recorded regularly during user visits to the restroom.  This data is compiled and displayed graphically.  Frequent, regular data collection of many health indicators is not feasible without the passive measurements enabled by LavWell technology.  Historical data trends will unlock new insights about user health and wellness, enabling individuals to make better health decisions with their caregivers or medical providers.
