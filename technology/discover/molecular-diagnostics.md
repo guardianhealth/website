@@ -8,7 +8,7 @@ show_sidebar: false
 menubar: discover_menu
 ---
 
-![Image](/img/guardian/cardio-seat.png){:class="img-responsive"}
+![Image](/img/discover/molecular-diagnostics.png){:class="img-responsive"}
 
 ## Measurement Technologies
 - Colorimetric chemical assays

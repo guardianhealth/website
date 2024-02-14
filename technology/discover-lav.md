@@ -8,6 +8,6 @@ show_sidebar: false
 menubar: discover_menu
 ---
 
-![Image](/img/guardian/guardian-lav.png){:class="img-responsive"}
+![Image](/img/discover/discover-lav.png){:class="img-responsive"}
 
 The Discover Lav is a future product offering from LavWell Technologies.  Building on the platform of the Guardian Lav, the Discover Lav will incorporate enhanced urine analysis tools to enable complex molecular diagnostics.
