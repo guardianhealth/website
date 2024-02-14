@@ -3,12 +3,12 @@ layout: page
 title: Technology
 subtitle: Urine Flow
 hero_height: is-short
-hero_image: /website/img/guardian-technology-cover.jpg
+hero_image: /img/guardian-technology-cover.jpg
 show_sidebar: false
 menubar: guardian_menu
 ---
 
-![Image](/website/img/guardian/urine.png){:class="img-responsive"}
+![Image](/img/guardian/urine.png){:class="img-responsive"}
 
 ## Technologies
 - Temperature Measurement vs.Time

@@ -3,7 +3,7 @@ layout: page
 title: Health Conscious Consumers
 subtitle: Customers
 hero_height: is-short
-hero_image: /website/img/guardian-web-home-cover-1.jpg
+hero_image: /img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 menubar: customers_menu
 ---
@@ -16,4 +16,4 @@ LavWell Technologies fits naturally into the daily “life flow” of wellness-o
 - Increased patient – provider interaction when developing treatment plans
 - Can choose to share their own health trends and view their children’s, giving them complete peace of mind
 
-![Image](/website/img/health-concious-consumers.jpg){:class="img-responsive"}
+![Image](/img/health-concious-consumers.jpg){:class="img-responsive"}

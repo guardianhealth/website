@@ -3,7 +3,7 @@ layout: page
 title: LavWell Technologies
 subtitle: Turning waste into wellness
 hero_height: is-medium
-hero_image: /website/img/guardian-web-home-cover-1.jpg
+hero_image: /img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 
 ---

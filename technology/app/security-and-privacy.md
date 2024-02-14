@@ -3,12 +3,12 @@ layout: page
 title: Technology
 subtitle: Security and Privacy
 hero_height: is-short
-hero_image: /website/img/guardian-technology-cover.jpg
+hero_image: /img/guardian-technology-cover.jpg
 show_sidebar: false
 menubar: mobileapp_menu
 ---
 
-![Image](/website/img/guardian/technology/app_square.png){:class="img-responsive"}
+![Image](/img/guardian/technology/app_square.png){:class="img-responsive"}
 
 The LavWell app and ecosystem form a secure vault to maintain privacy of sensitive health data.
 - App and backend architecture is HIPAA and GDPR compliant

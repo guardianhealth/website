@@ -3,7 +3,7 @@ layout: page
 title: Retail Clinics and Payers
 subtitle: Customers
 hero_height: is-short
-hero_image: /website/img/guardian-web-home-cover-1.jpg
+hero_image: /img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 menubar: customers_menu
 ---
@@ -14,4 +14,4 @@ LavWell Technologies provides a convenient and seamless solution to retail clini
 - Additional value added services that increase store traffic – growing cross selling and services revenue
 - Increased value to their Member Rewards and Corporate / Payer wellness programs that reduce the healthcare costs for all involved
 
-![Image](/website/img/Retail-clinics-and-payers.png){:class="img-responsive"}
+![Image](/img/Retail-clinics-and-payers.png){:class="img-responsive"}

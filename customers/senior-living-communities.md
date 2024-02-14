@@ -3,7 +3,7 @@ layout: page
 title: Senor Living Communities
 subtitle: Customers
 hero_height: is-short
-hero_image: /website/img/guardian-web-home-cover-1.jpg
+hero_image: /img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 menubar: customers_menu
 ---
@@ -15,4 +15,4 @@ Lifestyle and wellness program quality is a major criteria senior residents use 
 - Maintain higher occupancy rates and months of stay by helping residents stay healthy and independent
 - Reduce resident and community healthcare costs by reducing direct-care staff demand
 
-![Image](/website/img/senior-living-communities.png){:class="img-responsive"}
+![Image](/img/senior-living-communities.png){:class="img-responsive"}

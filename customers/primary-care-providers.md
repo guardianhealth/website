@@ -3,7 +3,7 @@ layout: page
 title: Primary Care Providers
 subtitle: Customers
 hero_height: is-short
-hero_image: /website/img/guardian-web-home-cover-1.jpg
+hero_image: /img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 menubar: customers_menu
 ---
@@ -17,4 +17,4 @@ LavWell Technoloties provides a convenient, low cost solution to primary care pr
 - Improved efficiency of care delivery to their patients
 - Improved patient retention and loyalty
 
-![Image](/website/img/primary-care-providers.png){:class="img-responsive"}
+![Image](/img/primary-care-providers.png){:class="img-responsive"}
