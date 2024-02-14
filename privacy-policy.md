@@ -23,7 +23,11 @@ We collect the following information from our users:
 You can always choose to provide less information.  However, omitting some of this personal information may limit your ability to access all of the benefits of our website and services.  For example, we will not be able to contact you without your personal contact information.
 
 ## Automatically collected information
-We automatically collect data on how our users visit www.guardianhealth.care, such as your IP address.  The site www.lavwell.com is served by GitHub Pages.  More information about GitHub's use of IP addresses is available here (https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and here (https://docs.github.com/en/site-policy/privacy-policies).
+We automatically collect data on how our users visit www.guardianhealth.care, such as your IP address, cookies, and other browsing data.  
+
+The site www.lavwell.com is served by GitHub Pages.  More information about GitHub's use of IP addresses is available here (https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and here (https://docs.github.com/en/site-policy/privacy-policies).
+
+The site www.lavwell.com uses Google Analytics to track website engagement metrics.  More information about how Google Analytics tracks your data is available here (https://support.google.com/analytics/answer/7318509?hl=en).
 
 ## Social media information
 We do not collect any social media information through the site www.lavwell.com.  We do, however, collect demographic data when users interact with Guardian Health/LavWell social media accounts.

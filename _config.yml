@@ -20,6 +20,9 @@ theme_color: '#00827f'
 paginate: 5
 paginate_path: "/blog/page:num"
 
+# Google Analytics
+google_analytics: G-RS3GFRBB23
+
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
