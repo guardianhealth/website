@@ -7,6 +7,21 @@ hero_image: /img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 ---
 
+<section class="hero is-light">
+    <div class="columns">
+        <div class="column is-12">
+            <div class="content">
+                <h2 class="has-text-centered">OUR MISSION</h2>
+            </div>
+        </div>
+        <div class="column is-12">
+            <div class="content">
+                <h3 class="has-text-centered">Transform the model of health and wellness management by making frequent, valuable measurements of critical health indicators a seamless part of daily routines.</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
 >**OUR MISSION**
 >
 > Transform the model of health and wellness management by making frequent, valuable measurements of critical health indicators a seamless part of daily routines.
