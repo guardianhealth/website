@@ -4,7 +4,7 @@ items:
   - title: Guardian Lav
     subtitle: First to Market
     image: /img/technology/guardian_square.png
-    image-size: "10"
+    image-size: 10
     description: >
       The Guardian Lav is the first Guardian Health product.
 
@@ -14,6 +14,7 @@ items:
   - title: Discover Lav
     subtitle: Expanded Diagnostic Capability
     image: /img/technology/discover_square.png
+    image-size: "10"
     description: >
       The Discover Lav expands beyond basic trending capabilities.
 
@@ -23,6 +24,7 @@ items:
   - title: Mobile App
     subtitle: Data Visibility and Control
     image: /img/technology/app_square.png
+    image-size: "10"
     description: >
       The mobile app (and browser alternate) provide access and control for data.
 
