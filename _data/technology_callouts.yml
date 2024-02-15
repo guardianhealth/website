@@ -4,6 +4,7 @@ items:
   - title: Guardian Lav
     subtitle: First to Market
     image: /img/technology/guardian_square.png
+    image-size: 10
     description: >
       The Guardian Lav is the first Guardian Health product.
 
