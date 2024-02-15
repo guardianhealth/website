@@ -11,7 +11,7 @@ menubar: guardian_menu
 ![Image](/img/guardian/urine.png){:class="img-responsive"}
 
 ## Technologies
-- Temperature Measurement vs.Time
+- Temperature Measurement vs. Time
 
 ## Data Outputs
 - Approximate urine flow rate

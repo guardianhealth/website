@@ -25,6 +25,7 @@ menubar: guardian_menu
 - Urine Leukocyte
 - Urine Nitrite
 - Urine Blood
+- Urine Hormone Levels
 
 ## Relevant Health and Wellness Categories
 - Diabetes
@@ -33,3 +34,4 @@ menubar: guardian_menu
 - Cardiovascular Disease
 - Chronic Kidney Disease
 - Urinary Tract Infection
+- Female Hormone Health
