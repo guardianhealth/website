@@ -5,7 +5,7 @@ items:
     subtitle: 
     image: /img/icons/obesity.svg
     description: >
-      71.6% of adults 20+ are overweight or obese (39.8%) and it’s rising. Obesity is linked to more than 60 chronic diseases including diabetes, one of the top 5 leading causes of death, and costs Americans $147 billion each year.1,2
+      71.6% of adults 20+ are overweight or obese (39.8%) and it’s rising. Obesity is linked to more than 60 chronic diseases including diabetes, one of the top 5 leading causes of death, and costs Americans $147 billion each year.<sup>1,
   - title: Dehydration
     subtitle: 
     image: /img/icons/dehydration.svg
