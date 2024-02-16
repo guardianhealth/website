@@ -9,7 +9,7 @@ published: true
 canonical_url: https://www.guardianhealth.care/news/2024/01/15/guardian-health-opens-bridge-funding-round.html
 ---
 
-Provo, Utah--LavWell Technologies (www.lavwell.com), a pioneer in the advancement of science to support wellness, has opened a bridge funding round.  Using technologies developed by the founding partners, the company is preparing a beta product launch to validate its flagship product, the Guardian Lav.  The Guardian Lav is a smart, medical toilet that monitors key health and wellness indicators with no disruption to users' daily routines.
+Provo, Utah--LavWell Technologies ([www.lavwell.com](www.lavwell.com)), a pioneer in the advancement of science to support wellness, has opened a bridge funding round.  Using technologies developed by the founding partners, the company is preparing a beta product launch to validate its flagship product, the Guardian Lav.  The Guardian Lav is a smart, medical toilet that monitors key health and wellness indicators with no disruption to users' daily routines.
 
 The company anticipates moving into a limited commercial release of the Guardian Lav in Q3 2024.  The product is marketed towards assisted living markets, with a general consumer offering to follow soon after.
 
@@ -23,4 +23,4 @@ The Guardian Lav is a luxury toilet including a bidet, heated seat, and air drye
 
 "A healthcare future with realistic early prevention is now more possible than ever," said Campbell.  "The impact of actionable health notifications empowering people to make more proactive, informed descisions about their well-being is game-changing."
 
-For more information visit www.lavwell.com.
+For more information visit [www.lavwell.com](www.lavwell.com).

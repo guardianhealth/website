@@ -15,7 +15,7 @@ items:
     subtitle: 
     image: /img/icons/cardiovascular-disease.svg
     description: >
-      Heart disease is the leading cause of death for both men and women. 1 person dies every 37 seconds, and it is the cause of 1 in every 4 deaths. 647,000 Americans die from heart disease every year, totaling more than $219 billion in medical expenses. <sup>7</sup? 
+      Heart disease is the leading cause of death for both men and women. 1 person dies every 37 seconds, and it is the cause of 1 in every 4 deaths. 647,000 Americans die from heart disease every year, totaling more than $219 billion in medical expenses.<sup>7</sup? 
   - title: Diabetes
     subtitle: 
     image: /img/icons/diabetes.svg
@@ -40,7 +40,7 @@ items:
     subtitle:
     image: /img/icons/urinary-tract-function.svg
     description: >
-      (Uroflowmetry) – Prostate enlargement (BPH) affects 5 of 10 American men ages 51 – 60, and 9 of 10 ages 80+ (27 million total). 1 in 4 women over the age of 18 will experience urinary incontinence (UI). That’s 25 million in the US, 200 million worldwide. <sup>19,20</sup>
+      (Uroflowmetry) – Prostate enlargement (BPH) affects 5 of 10 American men ages 51 – 60, and 9 of 10 ages 80+ (27 million total). 1 in 4 women over the age of 18 will experience urinary incontinence (UI). That’s 25 million in the US, 200 million worldwide.<sup>19,20</sup>
   - title: Urinary Tract Infections
     subtitle:
     image: /img/icons/urinary-tract-infections.svg
