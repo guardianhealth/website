@@ -1,32 +1,11 @@
 ---
 layout: page
 title: Beta Test Program
-subtitle: 
+subtitle: Join the Guardian Lav beta test program today!
 hero_height: is-medium
 hero_image: /img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 ---
-
-<section class="section">
-    <section class="hero is-light">
-        <div class="columns">
-            <div class="column is-12">
-                <div class="content">
-                    <h2 class="has-text-centered">BETA TESTERS WANTED</h2>
-                </div>
-            </div>
-        </div>
-        <div class="columns">
-            <div class="column is-2"></div>
-            <div class="column is-8">
-                <div class="content">
-                    <h3 class="has-text-centered">Join the Guardian Lav beta test program today!</h3>
-                </div>
-            </div>
-            <div class="column is-2"></div>
-        </div>
-    </section>
-</section>
 
 # Beta Testers Wanted
 LavWell Technologies is testing an innovative new product, the Guardian Lav smart wellness toilet.  The Guardian Lav passively tracks the user's hydration score and urine temperature, providing valuable wellness data and promoting healthy habits.
@@ -100,6 +79,8 @@ LavWell is seeking beta test participants in the following categories:
             </div>
             <p class="title is-5">Prostate Health Check [2]</p>
         </div>
+    </div>
+</section>
 
 # Benefits
 - Receive real-time monitoring of user hydration levels
