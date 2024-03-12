@@ -30,7 +30,7 @@ LavWell is seeking beta test participants in the following categories:
                     <div class="column is-3"></div>
                     <div class="column is-6">
                         <figure class="image is-4 is-square">
-                            <img src="/img/icons/dehydration.svg" alt="picture" class="image-responsive">
+                            <img src="/img/icons/dehydration-white.svg" alt="picture" class="image-responsive">
                         </figure>
                     </div>
                     <div class="column is-3"></div>
@@ -42,19 +42,19 @@ LavWell is seeking beta test participants in the following categories:
                     <div class="column is-3"></div>
                     <div class="column is-6">
                         <figure class="image is-4 is-square">
-                            <img src="/img/icons/temperature.svg" alt="picture" class="image-responsive">
+                            <img src="/img/icons/temperature-white.svg" alt="picture" class="image-responsive">
                         </figure>
                     </div>
                     <div class="column is-3"></div>
                 </div>
-                <p class="title is-5">Temperature Tracker [1]</p>
+                <p class="title is-5">Temperature Tracker<sup>1</sup></p>
             </div>
             <div class="column is-3 has-text-centered">
                 <div class="columns">
                     <div class="column is-3"></div>
                     <div class="column is-6">
                         <figure class="image is-4 is-square">
-                            <img src="/img/icons/urinary-tract-function.svg" alt="picture" class="image-responsive">
+                            <img src="/img/icons/urinary-tract-function-white.svg" alt="picture" class="image-responsive">
                         </figure>
                     </div>
                     <div class="column is-3"></div>
@@ -66,12 +66,12 @@ LavWell is seeking beta test participants in the following categories:
                     <div class="column is-3"></div>
                     <div class="column is-6">
                         <figure class="image is-4 is-square">
-                            <img src="/img/icons/calendar_month.svg" alt="picture" class="image-responsive">
+                            <img src="/img/icons/calendar_month-white.svg" alt="picture" class="image-responsive">
                         </figure>
                     </div>
                     <div class="column is-3"></div>
                 </div>
-                <p class="title is-5">Prostate Health Check [2]</p>
+                <p class="title is-5">Prostate Health Check<sup>2</sup></p>
             </div>
         </div>
     </div>
@@ -81,7 +81,7 @@ LavWell is seeking beta test participants in the following categories:
 - Receive real-time monitoring of user hydration levels
 - Receive real-time monitoring of user urine temperature
 - Access all data on a secure mobile app
-- Free access to a luxury toilet, with bidet and heated seat [3]
+- Free access to a luxury toilet, with bidet and heated seat<sup>3</sup>
 - Receive preferred customer treatment on commercial release
 
 # Responsibilities
