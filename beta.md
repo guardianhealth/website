@@ -20,7 +20,7 @@ LavWell is seeking beta test participants in the following categories:
 - Health conscious consumers with an interest in tracking wellness indicators
 
 
-<section class="section" is-medium>
+<section class="section is-medium is-primary">
     <div class="columns">
         <div class="column" is-full>
             <div class="content">
@@ -30,7 +30,7 @@ LavWell is seeking beta test participants in the following categories:
         </div>
     </div>
     <div class="columns is-multiline is-centered">
-        <div class="column is-4 has-text-centered">
+        <div class="column is-3 has-text-centered">
             <div class="columns">
                 <div class="column is-3"></div>
                 <div class="column is-6">
@@ -42,7 +42,7 @@ LavWell is seeking beta test participants in the following categories:
             </div>
             <p class="title is-5">Dehydration</p>
         </div>
-        <div class="column is-4 has-text-centered">
+        <div class="column is-3 has-text-centered">
             <div class="columns">
                 <div class="column is-3"></div>
                 <div class="column is-6">
@@ -54,7 +54,7 @@ LavWell is seeking beta test participants in the following categories:
             </div>
             <p class="title is-5">Temperature Tracker [1]</p>
         </div>
-                <div class="column is-4 has-text-centered">
+        <div class="column is-3 has-text-centered">
             <div class="columns">
                 <div class="column is-3"></div>
                 <div class="column is-6">
@@ -66,8 +66,7 @@ LavWell is seeking beta test participants in the following categories:
             </div>
             <p class="title is-5">Personal Wellness Calendar</p>
         </div>
-                </div>
-                <div class="column is-4 has-text-centered">
+        <div class="column is-3 has-text-centered">
             <div class="columns">
                 <div class="column is-3"></div>
                 <div class="column is-6">
