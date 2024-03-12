@@ -22,14 +22,8 @@ LavWell is seeking beta test participants in the following categories:
 
 <section class="hero is-primary">
     <div class="hero-body">
-        <div class="columns">
-            <div class="column" is-full>
-                <div class="content">
-                    <h2 class="has-text-centered">Tracked Indicators</h2>
-                    <h5 class="has-text-centered">All data will be displayed to the user and facility (if applicable) on a secure mobile app</h3>
-                </div>
-            </div>
-        </div>
+        <p class="title">Tracked Indicators</p>
+        <p class="subtitle">All data will be displayed to the user and facility (if applicable) on a secure mobile app</p>
         <div class="columns is-multiline is-centered">
             <div class="column is-3 has-text-centered">
                 <div class="columns">
