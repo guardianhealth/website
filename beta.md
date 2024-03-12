@@ -20,7 +20,7 @@ LavWell is seeking beta test participants in the following categories:
 - Health conscious consumers with an interest in tracking wellness indicators
 
 
-<section class="section is-medium is-primary">
+<section class="container">
     <div class="columns">
         <div class="column" is-full>
             <div class="content">

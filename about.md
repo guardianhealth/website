@@ -7,7 +7,7 @@ hero_image: /img/guardian-web-home-cover-1.jpg
 show_sidebar: false
 ---
 
-<section class="section">
+<div class="column is-12">
     <section class="hero is-light">
         <div class="columns">
             <div class="column is-12">
@@ -26,7 +26,7 @@ show_sidebar: false
             <div class="column is-2"></div>
         </div>
     </section>
-</section>
+</div>
 
 Over 100 million Americans have a pre-chronic illness or disease and the majority don’t even know it. Early detection matters, and will often lead to better health outcomes at lower cost. But, improving wellbeing through prevention requires a technology that is easy, convenient and fits naturally into personal “life flow.”
 
