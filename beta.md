@@ -20,63 +20,65 @@ LavWell is seeking beta test participants in the following categories:
 - Health conscious consumers with an interest in tracking wellness indicators
 
 
-<section class="container">
-    <div class="columns">
-        <div class="column" is-full>
-            <div class="content">
-                <h2 class="has-text-centered">Tracked Indicators</h2>
-                <h3 class="has-text-centered">All data will be displayed to the user and facility (if applicable) on a secure mobile app</h3>
+<section class="hero is-primary">
+    <div class="hero-body">
+        <div class="columns">
+            <div class="column" is-full>
+                <div class="content">
+                    <h2 class="has-text-centered">Tracked Indicators</h2>
+                    <h5 class="has-text-centered">All data will be displayed to the user and facility (if applicable) on a secure mobile app</h3>
+                </div>
             </div>
         </div>
-    </div>
-    <div class="columns is-multiline is-centered">
-        <div class="column is-3 has-text-centered">
-            <div class="columns">
-                <div class="column is-3"></div>
-                <div class="column is-6">
-                    <figure class="image is-4 is-square">
-                        <img src="/img/icons/dehydration.svg" alt="picture" class="image-responsive">
-                    </figure>
+        <div class="columns is-multiline is-centered">
+            <div class="column is-3 has-text-centered">
+                <div class="columns">
+                    <div class="column is-3"></div>
+                    <div class="column is-6">
+                        <figure class="image is-4 is-square">
+                            <img src="/img/icons/dehydration.svg" alt="picture" class="image-responsive">
+                        </figure>
+                    </div>
+                    <div class="column is-3"></div>
                 </div>
-                <div class="column is-3"></div>
+                <p class="title is-5">Dehydration</p>
             </div>
-            <p class="title is-5">Dehydration</p>
-        </div>
-        <div class="column is-3 has-text-centered">
-            <div class="columns">
-                <div class="column is-3"></div>
-                <div class="column is-6">
-                    <figure class="image is-4 is-square">
-                        <img src="/img/icons/temperature.svg" alt="picture" class="image-responsive">
-                    </figure>
+            <div class="column is-3 has-text-centered">
+                <div class="columns">
+                    <div class="column is-3"></div>
+                    <div class="column is-6">
+                        <figure class="image is-4 is-square">
+                            <img src="/img/icons/temperature.svg" alt="picture" class="image-responsive">
+                        </figure>
+                    </div>
+                    <div class="column is-3"></div>
                 </div>
-                <div class="column is-3"></div>
+                <p class="title is-5">Temperature Tracker [1]</p>
             </div>
-            <p class="title is-5">Temperature Tracker [1]</p>
-        </div>
-        <div class="column is-3 has-text-centered">
-            <div class="columns">
-                <div class="column is-3"></div>
-                <div class="column is-6">
-                    <figure class="image is-4 is-square">
-                        <img src="/img/icons/urinary-tract-function.svg" alt="picture" class="image-responsive">
-                    </figure>
+            <div class="column is-3 has-text-centered">
+                <div class="columns">
+                    <div class="column is-3"></div>
+                    <div class="column is-6">
+                        <figure class="image is-4 is-square">
+                            <img src="/img/icons/urinary-tract-function.svg" alt="picture" class="image-responsive">
+                        </figure>
+                    </div>
+                    <div class="column is-3"></div>
                 </div>
-                <div class="column is-3"></div>
+                <p class="title is-5">Personal Wellness Calendar</p>
             </div>
-            <p class="title is-5">Personal Wellness Calendar</p>
-        </div>
-        <div class="column is-3 has-text-centered">
-            <div class="columns">
-                <div class="column is-3"></div>
-                <div class="column is-6">
-                    <figure class="image is-4 is-square">
-                        <img src="/img/icons/calendar_month.svg" alt="picture" class="image-responsive">
-                    </figure>
+            <div class="column is-3 has-text-centered">
+                <div class="columns">
+                    <div class="column is-3"></div>
+                    <div class="column is-6">
+                        <figure class="image is-4 is-square">
+                            <img src="/img/icons/calendar_month.svg" alt="picture" class="image-responsive">
+                        </figure>
+                    </div>
+                    <div class="column is-3"></div>
                 </div>
-                <div class="column is-3"></div>
+                <p class="title is-5">Prostate Health Check [2]</p>
             </div>
-            <p class="title is-5">Prostate Health Check [2]</p>
         </div>
     </div>
 </section>
