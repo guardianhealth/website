@@ -100,7 +100,7 @@ Most sites will require an additional electrical outlet next to the toilet.  Lav
 # Data Privacy
 LavWell Technologies will maintain user data with confidentiality and security, and will comply with all applicable data protection laws and regulations.  Participant's personally identifying information will be stored in a separate location from participant wellness data.  LavWell may use all collected data internally for product development or other purposes.  Under no conditions will participant data be shared with any third party.
 
-# Sign up
+<h1 class="title has-text-centered">Sign Up</h1>
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/d1952ecdaad54b0d412d8f1174db8024?embedded=1"></div>
 
 <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
