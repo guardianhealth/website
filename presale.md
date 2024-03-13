@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presales
-subtitle: Join the Guardian Lav beta test program today!
+subtitle: Sign up as an early customer!
 hero_height: is-medium
 hero_image: /img/guardian-web-home-cover-1.jpg
 show_sidebar: false
