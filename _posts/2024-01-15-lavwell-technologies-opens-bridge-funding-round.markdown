@@ -13,7 +13,7 @@ Provo, Utah--LavWell Technologies ([www.lavwell.com](www.lavwell.com)), a pionee
 
 The company anticipates moving into a limited commercial release of the Guardian Lav in Q3 2024.  The product is marketed towards assisted living markets, with a general consumer offering to follow soon after.
 
-Jeff Campbell, CEO of LavWell Technologies, plans to apply the proceeds of the bridge funding round toward accelerating and increasing manufacturing capacity in the limited commercial release.
+Jeff Campbell, CEO of LavWell Technoloties, plans to apply the proceeds of the bridge funding round toward accellerating and increasing manufacturing capacity in the limited commercial release.
 
 **Guardian Lav** The Guardian Lav is a high-quality smart toilet that gathers multiple health metrics completely passively during each bathroom visit, enabling proactive early screening of health risks and ongoing trending of wellness. Future versions of the Guardian Lav will implement additional capability for enhanced urine screening. The company expects that once the product is in place, it will become a platform for other scientists and innovators to develop new applications and sensors to monitor health and wellness for individual users.
 
