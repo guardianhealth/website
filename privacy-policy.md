@@ -8,7 +8,7 @@ show_sidebar: false
 
 Guardian Health, Inc. (dba "LavWell Technologies," and "LavWell") operates the site (www.lavwell.com) to provide services including marketing, distribution, and promotion of the company and its products.
 
-Guardian Health is committed to protecting users' privacy and addressing potentisl privacy concerns.  The following information has been posted to help you, the website visitor, understand what private information we collect and how your information is used.
+Guardian Health is committed to protecting users' privacy and addressing potential privacy concerns.  The following information has been posted to help you, the website visitor, understand what private information we collect and how your information is used.
 
 # Types of private information collected
 To best serve your needs, we collect the following types of information when you visit www.guardianhealth.com.
