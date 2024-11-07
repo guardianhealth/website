@@ -35,7 +35,7 @@ We do not collect any social media information through the site.  We do, however
 # Policy on collecting sensitive personal information
 LavWell does not gather any of your sensitive information through interaction with the site, such as your social security number, driver's license number, race, ethnicity, religion, health metrics, political associations, or details on your criminal background.
 
-Devices and mobile applications created by LavWell do collect sensitive identifying information, race, ethnicity, and health metrics.  Collection and use of this data is covered under separate privacy policies for such devices and mobile applications.
+Devices and mobile applications created by LavWell do collect sensitive identifying information, race, ethnicity, and health metrics.
 
 # How the information collected is used
 We only use your personal information to help you utilize the services LavWell has to offer.  This includes:
@@ -59,8 +59,6 @@ We may share your information with third parties, but only with those affiliates
 - Issuing email and text message communications
 
 We will never share your personal information for advertising purposes.
-
-GitHub's policies on information sharing is available here (https://docs.github.com/en/site-policy/privacy-policies).
 
 # Third party links
 The site may contain links to third party websites. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you on our site. Other sites accessible through our site via links or otherwise have their own policies in regard to privacy. We are not responsible for the privacy policies or practices of third parties. 
